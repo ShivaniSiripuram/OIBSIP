@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    
+}
+
+.image_container{
+    margin-top: 50px;
+}
+img{
+    text-align: center;
+    align-items: center;
+    margin-left: 300px;
+}
+.start{
+    margin-left: 500px;
+}
+
